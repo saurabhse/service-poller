@@ -56,7 +56,7 @@ This is my first exposure to vert.x so could not work on all frontend and backen
 7. refer few examples below
 
 
-###Tasks Done
+### Tasks Done
 
 
 - Whenever the server is restarted, any added services disappear - Done
@@ -81,7 +81,9 @@ KRY status poller
 Url	                Name	 Date	     Status
 
 http://hello12.com		    2020-04-26	 FAIL	Delete
+
 http://hello123.com		    2020-04-26	 OK	    Delete
+
 http://hello.com	hello	2020-04-26	 OK	    Delete
 
 2. Enter url and click Save button to create new service
